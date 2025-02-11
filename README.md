@@ -26,8 +26,8 @@ A Python implementation of a compiler pipeline for a subset of the C programming
 
 1. Clone repository:
     ```bash
-    git clone https://github.com/yourusername/c-compiler.git
-    cd c-compiler
+    https://github.com/mdzubayerhossain/C-Compiler-Project-With-Pyhton.git
+    cd C-Compiler-Project-With-Pyhton
 # Create test file test.c
     ``bash
     int main() {
